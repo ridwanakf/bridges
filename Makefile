@@ -1,0 +1,3 @@
+# run all go:generate commands (eg. Mock files generator)
+generate:
+	@go generate ./...
