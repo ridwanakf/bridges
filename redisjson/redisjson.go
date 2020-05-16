@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 
 	"github.com/pkg/errors"
-	bridge "github.com/ridwanakf/url-shortener-service/internal"
+	bridge "github.com/ridwanakf/go-bridges"
 )
 
 type redisJson struct {

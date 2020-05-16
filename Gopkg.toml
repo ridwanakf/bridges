@@ -41,10 +41,6 @@
   name = "github.com/pkg/errors"
   version = "0.9.1"
 
-[[constraint]]
-  branch = "master"
-  name = "github.com/ridwanakf/url-shortener-service"
-
 [prune]
   go-tests = true
   unused-packages = true
